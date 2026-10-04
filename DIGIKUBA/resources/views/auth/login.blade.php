@@ -14,7 +14,7 @@
         content="Login DIGIKUBA - Layanan Surat Online Kelurahan Kutabaru"
     >
 
-    <title>Login | DIGIKUBA</title>
+    <title>Masuk | DIGIKUBA</title>
 
     <link
         rel="stylesheet"
